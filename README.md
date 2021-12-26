@@ -1,3 +1,5 @@
+Proyecto utilizado para practicar y realizar las tareas asignadas por el instructor [Fernando Herrera](https://github.com/Klerith) en la sección 2 del curso de Udemy [React Pro](https://www.udemy.com/course/react-pro/).
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
